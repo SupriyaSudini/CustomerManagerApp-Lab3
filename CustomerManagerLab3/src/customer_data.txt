@@ -1,0 +1,6 @@
+1,Sweety,sweety@gmail.com,1234567890
+2,Sunny,sunny@gmail.com,3216549870
+3,Lucki,lucki@gmail.com,9876543210
+4,Neha,neha@gmail.com,3217654098
+7,Pavan,pavan@gmail.com,3214567890
+8,v,v@gmail.com,1230987654
